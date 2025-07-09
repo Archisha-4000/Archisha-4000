@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Archisha
 
 <div align="center">
-  <img src="https://readme-typing-svg.hero## 🏆 GitHub Trophiesont=Fira+Code&size=24&duration=3000&pause=1000&color=3F7EF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+%F0%9F%9A%80;Always+learning+new+things+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3F7EF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+%F0%9F%9A%80;Always+learning+new+things+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -89,6 +89,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Archisha-4000&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archisha-4000&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
@@ -96,14 +98,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archisha-4000&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
-## � Fun Extras
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Random Dev Joke" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Archisha-4000&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Archisha-4000&theme=radical&no-frame=true&no-bg=false&margin-w=12&row=1&column=5" alt="GitHub Trophies" />
 </div>
 
 ## 🤝 Let's Connect!
@@ -119,6 +117,9 @@
 <a href="mailto:archishaupadhyaya10d@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+<a href="https://discord.com/users/@leave.it_be.">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
 
 </div>
 
@@ -126,5 +127,5 @@
 
 <div align="center">
   <h3>✨ Thanks for visiting! Have a great day! ✨</h3>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to stop by and say hi, <b>I'll be happy to meet you more!</b> 😊</em>
+  <img width="60"> 🌟 </img> <em><b>I love connecting with different people</b> so if you want to stop by and say hi, <b>I'll be happy to meet you more!</b> 😊</em>
 </div>
