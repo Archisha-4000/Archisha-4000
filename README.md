@@ -5,12 +5,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Archisha-4000.png" alt="Profile Picture" width="150" style="border-radius: 50%;" />
+  <img src="https://github.com/Archisha-Upadhyaya.png" alt="Profile Picture" width="150" style="border-radius: 50%;" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Archisha-4000&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Archisha-4000?label=Followers&style=social" alt="GitHub followers">
+  <img src="https://komarev.com/ghpvc/?username=Archisha-Upadhyaya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Archisha-Upadhyaya?label=Followers&style=social" alt="GitHub followers">
 </p>
 
 ## 🚀 About Me
@@ -88,20 +88,20 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Archisha-4000&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Archisha-Upadhyaya&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archisha-4000&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archisha-Upadhyaya&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archisha-4000&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archisha-Upadhyaya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Archisha-4000&theme=radical&no-frame=true&no-bg=false&margin-w=12&row=1&column=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Archisha-Upadhyaya&theme=radical&no-frame=true&no-bg=false&margin-w=12&row=1&column=5" alt="GitHub Trophies" />
 </div>
 
 ## 🤝 Let's Connect!
